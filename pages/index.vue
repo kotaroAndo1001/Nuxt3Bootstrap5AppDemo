@@ -1,6 +1,3 @@
 <template>
-  <div class="container">
-    <h1>My Hobby</h1>
-  </div>
+    <h1>タイトル</h1>
 </template>
-

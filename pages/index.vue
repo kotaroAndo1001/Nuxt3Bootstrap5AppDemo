@@ -33,14 +33,14 @@
     align-items: center;
   }
   .media-image {
-    flex: 0 0 300px; /* 画像のベースサイズを300pxに設定 */
+    flex: 0 0 300px;
     margin-right: 20px;
-    max-width: 300px; /* 画像の最大幅を300pxに設定 */
+    max-width: 300px; 
   }
   .media-image img {
-    width: 100%; /* 画像の幅をコンテナに合わせて調整 */
-    height: auto; /* 画像の高さを自動調整してアスペクト比を維持 */
-    object-fit: cover; /* 画像がコンテナのサイズに合わせて切り取られる */
+    width: 100%; 
+    height: auto; 
+    object-fit: cover; 
   }
   .media-content {
     flex: 1;
@@ -52,8 +52,8 @@
     .media-image {
       margin-right: 0;
       margin-bottom: 20px;
-      flex-basis: auto; /* モバイルビューでは画像のサイズを自動に戻す */
-      max-width: 100%; /* モバイルビューでは画像の最大幅を100%に設定 */
+      flex-basis: auto; 
+      max-width: 100%; 
     }
   }
   </style>

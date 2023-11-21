@@ -60,22 +60,7 @@
     </div>
   </div>
 
-  <nuxt-link  class="nav-link" to="/ranking6~10.vue">６～１０位はこちら</nuxt-link>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navbarNav"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-
 </template>
-
-
-
-
 
 <style scoped>
   .title {
@@ -108,7 +93,6 @@
       max-width: 100%; 
     }
   }
-</style>
 
 
 

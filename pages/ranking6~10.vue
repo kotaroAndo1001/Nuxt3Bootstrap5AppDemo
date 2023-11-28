@@ -1,1 +1,0 @@
-pages/ranking6~10.vue

@@ -71,13 +71,13 @@
     align-items: center;
   }
   .media-image {
-    flex: 0 0 400px; /* Increase the max-width */
+    flex: 0 0 400px;
     margin-right: 20px;
   }
   .media-image img {
-    width: 100%; 
-    height: auto; 
-    object-fit: cover; 
+    width: 100%;
+    height: auto;
+    object-fit: cover;
   }
   .media-content {
     flex: 1;
@@ -89,10 +89,11 @@
     .media-image {
       margin-right: 0;
       margin-bottom: 20px;
-      flex-basis: auto; 
-      max-width: 100%; 
+      flex-basis: auto;
+      max-width: 100%;
     }
   }
+</style>
 
 
 

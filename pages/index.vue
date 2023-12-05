@@ -4,7 +4,6 @@
     <h2>〇欧州・海外サッカー</h2>
     <p>10月30日にフランス・パリで行われた2023年バロンドールセレモニーでバロンドール受賞者が発表された。</p>
     
-    <!-- Messi -->
     <h2>1位　リオネル・メッシ（アルゼンチン／パリ・サンジェルマン→インテル・マイアミ）</h2>
     <div class="media">
       <div class="media-image">
@@ -15,7 +14,6 @@
       </div>
     </div>
     
-    <!-- Haaland -->
     <h2>2位　アーリング・ハーランド（ノルウェー／マンチェスター・シティ）</h2>
     <div class="media">
       <div class="media-image">
@@ -26,7 +24,6 @@
       </div>
     </div>
 
-    <!-- Mbappe -->
     <h2>3位　キリアン・エンバペ（フランス／パリ・サンジェルマン）</h2>
     <div class="media">
       <div class="media-image">
@@ -37,7 +34,6 @@
       </div>
     </div>
 
-    <!-- De Bruyne -->
     <h2>4位　ケヴィン・デ・ブライネ（ベルギー／マンチェスター・シティ）</h2>
     <div class="media">
       <div class="media-image">
@@ -48,7 +44,6 @@
       </div>
     </div>
 
-    <!-- Rodri -->
     <h2>5位 ロドリ（スペイン／マンチェスター・シティ）</h2>
     <div class="media">
       <div class="media-image">

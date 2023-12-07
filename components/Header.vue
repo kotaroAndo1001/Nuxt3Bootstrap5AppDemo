@@ -17,6 +17,9 @@
           <li class="nav-item">
             <nuxt-link  class="nav-link" to="/index2">6~10</nuxt-link>
           </li>
+          <li class="nav-item">
+          <nuxt-link  class="nav-link" to="/index3">11~15</nuxt-link>
+          </li>
           
         </ul>
       </div>

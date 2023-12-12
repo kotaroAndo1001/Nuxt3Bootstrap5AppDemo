@@ -1,4 +1,5 @@
 <template>
+<h1 class="title">Ballon D'or 2023年ランキング</h1>
   <h1>＜6~10位＞</h1>
   <div>
     <h2>6位 ヴィニシウス・ジュニオール（ブラジル／レアル・マドリード）</h2>
@@ -54,6 +55,10 @@
 </template>
 
 <style scoped>
+.title {
+    text-align: center; /* タイトルを中央に配置 */
+  }
+  
   /* Add the styles from the Messi, Haaland, and Mbappe sections here */
   .media {
     display: flex;

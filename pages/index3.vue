@@ -6,7 +6,7 @@
     <!-- 11th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/サラー.jpg" class="img-fluid rounded-start mt-3" alt="サラー">
         </div>
         <div class="col-md-8">
@@ -27,7 +27,7 @@
     <!-- 12th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/レヴァンドフスキ.webp" class="img-fluid rounded-start" alt="レヴァンドフスキ">
         </div>
         <div class="col-md-8">
@@ -48,7 +48,7 @@
     <!-- 13th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/ブヌ.jpg" class="img-fluid rounded-start" alt="ボヌ">
         </div>
         <div class="col-md-8">
@@ -69,7 +69,7 @@
     <!-- 14th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/ギュンドアン.jpg" class="img-fluid rounded-start" alt="ギュンドアン">
         </div>
         <div class="col-md-8">
@@ -90,7 +90,7 @@
     <!-- 15th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/マルティネス.jpg" class="img-fluid rounded-start" alt="マルティネス">
         </div>
         <div class="col-md-8">

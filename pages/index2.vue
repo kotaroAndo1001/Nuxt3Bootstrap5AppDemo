@@ -6,7 +6,7 @@
     <!-- 6th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/ヴィ二シウス.jpg" class="img-fluid rounded-start mt-3" alt="ヴィニシウス">
         </div>
         <div class="col-md-8">
@@ -27,7 +27,7 @@
     <!-- 7th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/アルバレス.jpg" class="img-fluid rounded-start" alt="アルバレス">
         </div>
         <div class="col-md-8">
@@ -48,7 +48,7 @@
     <!-- 8th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/オシムヘン.png" class="img-fluid rounded-start" alt="オシムヘン">
         </div>
         <div class="col-md-8">
@@ -69,7 +69,7 @@
     <!-- 9th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="images/ベルナルド.jpg" class="img-fluid rounded-start" alt="ベルナルド">
         </div>
         <div class="col-md-8">
@@ -90,12 +90,12 @@
     <!-- 10th Player -->
     <div class="card mb-3">
       <div class="row g-0">
-        <div class="col-md-4 text-center">
+        <div class="col-md-4 text-center d-flex align-items-center">
           <img src="/images/モドリッチ.jpg" class="img-fluid rounded-start" alt="モドリッチ">
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h2 class="card-title fs-10">10位 ルカ・モドリッチ（クロアチア/レアル・マドリー）</h2>
+            <h2 class="card-title fs-10">10位 ルカ・モドリッチ（クロアチア/レアル・マドリード）</h2>
             <p class="card-text fs-5">モドリッチはややペースダウンしているが、チャンピオンズリーグとワールドカップで見せたように、大舞台で見事なパフォーマンスを見せることはできる。今回が最後のノミネートとなるかもしれないが、それにふさわしい。</p>
             <div class="card mb-3">
               <div class="card-body">

@@ -1,10 +1,11 @@
-export const useRecipe = () => useState('recipe', () => {
+export const useRanking1 = () => useState('ranking1', () => {
     return {
-      title: "美味しさNo.1！KFC風フライドチキン",
+      title: "Ballon D'or 2023年ランキング",
+      subtitle: "〇欧州・海外サッカー",
       description:
-        "KFC人気レシピ1位！数あるKFCレシピ─どれも何か一味足りない気が。試行錯誤の末の主人も絶賛☆再現率の高いレシピです☆",
+        "10月30日にフランス・パリで行われた2023年バロンドールセレモニーでバロンドール受賞者が発表された。今回は１位から１５位を紹介します。",
       material: [
-        { text: "鶏肉(お好きな部位)　２〜３枚位" },
+        { text1: "鶏肉(お好きな部位)　２〜３枚位" },
         { text: "☆牛乳　1/2カップ" },
         { text: "☆卵　１個" },
         { text: "☆にんにくチューブ　２センチ位" },

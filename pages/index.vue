@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1 class="title">Ballon D'or 2023年ランキング</h1>
-    <h2>〇欧州・海外サッカー</h2>
-    <p>10月30日にフランス・パリで行われた2023年バロンドールセレモニーでバロンドール受賞者が発表された。今回は１位から１５位を紹介します。</p>
+    <h1 class="title">{{ranking1.title}}</h1>
+    <h2>{{ranking1.subtitle}}</h2>
+    <p>{{ranking1.description}}</p>
 
     <h1>＜1~5位＞</h1>
 
@@ -129,3 +129,8 @@
 }
 
 </style>
+
+
+<script setup lang="ts">
+const ranking1 = useRanking1()
+</script>

@@ -14,8 +14,8 @@
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h2 class="card-title fs-10">1位　リオネル・メッシ（アルゼンチン／インテル・マイアミ）</h2>
-            <p class="card-text fs-5">メッシは2022-23シーズン、当時所属していたパリ・サンジェルマンで公式戦21ゴール20アシストを記録してリーグアン優勝に貢献。さらに、2022年W杯では、ゴールデンボール（大会最優秀賞）に輝く活躍を見せて主将として36年ぶりとなる優勝を母国にもたらした。</p>
+            <h2 class="card-title fs-10">{{ranking1.name1}}</h2>
+            <p class="card-text fs-5">{{ranking1.detail1}}</p>
             <div class="card mb-3">
               <div class="card-body">
                 <h5 class="card-title">リオネル・メッシのプレー動画</h5>
